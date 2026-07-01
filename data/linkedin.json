@@ -1,0 +1,19 @@
+{
+    "name": "Kevin Shah",
+    "headline": "Software Engineer | AI Enthusiast",
+    "experience": [
+        {
+            "company": "Google",
+            "title": "Software Engineer",
+            "start": "2023-01",
+            "end": null
+        }
+    ],
+    "education": [
+        {
+            "institution": "Pandit Deendayal Energy University",
+            "degree": "B.Tech Information and Communication Technology"
+        }
+    ],
+    "location": "Ahmedabad, India"
+}

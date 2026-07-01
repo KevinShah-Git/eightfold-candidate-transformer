@@ -1,0 +1,13 @@
+{
+    "candidateName": "Kevin R Shah",
+    "emailAddress": "kevin.shah@gmail.com",
+    "mobile": "9876543210",
+    "company": "Google LLC",
+    "designation": "SDE",
+    "experience": 3,
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "FastAPI"
+    ]
+}
